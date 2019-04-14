@@ -1,0 +1,26 @@
+;This is the backup file of the user dictionary.
+;A tab character is set before a word and after its reading.
+;The supported encoding is UTF-8 and line break is CR+LF.
+;Example1:
+;そにー	ソニー株式会社
+;Example2:
+;sony	Sony Corporation
+;
+;You can use 50 characters per word and its reading.
+;You can save up to 500 words in the user dictionary.
+;
+;A text that starts with a semicolon (;) is treated as a comment and is not subject to restoration.
+;
+;本ファイルはユーザー辞書のバックアップファイルです。
+;タブ文字までが「読み」、以降が「語句」を意味します。
+;文字コードはUTF-8、改行コードはCR+LFに対応しています。
+;例1:
+;そにー	ソニー株式会社
+;例2:
+;sony	Sony Corporation
+;
+;登録できる語は、「読み」「語句」ともに最大50文字までです。
+;登録できる件数は、最大500件までです。
+;
+;先頭がセミコロン(;)で始まる行はコメントとして扱い、復元の際には無視します。
+;
