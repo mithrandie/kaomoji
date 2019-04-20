@@ -88,6 +88,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>(╮╯╭)</string>
+		<key>shortcut</key>
+		<string>いも</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>( ⌯᷄௰⌯᷅ )</string>
 		<key>shortcut</key>
 		<string>うー</string>
@@ -139,6 +145,18 @@
 		<string>(～・ω・)～</string>
 		<key>shortcut</key>
 		<string>うねうね</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ε二二二ε二二二(｡ﾟつД`)ﾟ｡ｳﾜｧｧ-----ﾝ!!!!</string>
+		<key>shortcut</key>
+		<string>うわーん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(｡&gt;﹏&lt;)</string>
+		<key>shortcut</key>
+		<string>えーん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -520,6 +538,24 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>+。:.ﾟ(๑＞◡╹๑)(๑╹◡＜๑):.｡+ﾟ</string>
+		<key>shortcut</key>
+		<string>きゃぴっ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>♡-(╹◡&lt;✿)♪</string>
+		<key>shortcut</key>
+		<string>きゃぴっ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(✿&gt;◡╹)-♡</string>
+		<key>shortcut</key>
+		<string>きゃぴっ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>（ゝω・）vｷｬﾋﾟｯ</string>
 		<key>shortcut</key>
 		<string>きゃぴっ</string>
@@ -595,6 +631,12 @@
 		<string>⊂⌒~⊃｡Д｡)⊃</string>
 		<key>shortcut</key>
 		<string>ぐでん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>_:(´ཀ`」 ∠):_</string>
+		<key>shortcut</key>
+		<string>ぐはぁ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -814,6 +856,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>－＝三∩(＞◡＜*)∩))Д´)どごぉ！	</string>
+		<key>shortcut</key>
+		<string>どごぉ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>(｡･x･)o彡ﾟどじっこ!(｡･x･)o彡ﾟどじっこ!</string>
 		<key>shortcut</key>
 		<string>どじ</string>
@@ -835,6 +883,12 @@
 		<string>(((((((っ*‘ω‘)っ</string>
 		<key>shortcut</key>
 		<string>ととと</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(ヾﾉヾﾉヾﾉヾﾉヾﾉ･ω･`)ヾﾉｼﾞｪｯﾄｽﾄﾘｰﾑﾅｲﾅｲ</string>
+		<key>shortcut</key>
+		<string>ないない</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -931,6 +985,18 @@
 		<string>(๑•ૅω•´๑)</string>
 		<key>shortcut</key>
 		<string>ねーねー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(っ=﹏=c) .｡o○</string>
+		<key>shortcut</key>
+		<string>ねむい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(っ﹏-).｡oO</string>
+		<key>shortcut</key>
+		<string>ねむい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1048,6 +1114,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>( *º﹃º *)</string>
+		<key>shortcut</key>
+		<string>はっ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>(๑°︿°๑)</string>
 		<key>shortcut</key>
 		<string>はっ</string>
@@ -1093,6 +1165,12 @@
 		<string> -=≡٩( ๑^ ꇴ^)۶</string>
 		<key>shortcut</key>
 		<string>ぴゅーん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>=͟͟͞͞(๑╹ω╹三╹ω╹๑=͟͟͞͞)</string>
+		<key>shortcut</key>
+		<string>ひゅんひゅん</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1171,6 +1249,18 @@
 		<string>ﾌﾟｰｯ(っ*｀з´)っ・:∴</string>
 		<key>shortcut</key>
 		<string>ぷっ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>c(╹ω╹*c[＿＿＿]</string>
+		<key>shortcut</key>
+		<string>ふとん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(ㆀ˘･з･˘)σ)Д`)ｺｲﾂｩ</string>
+		<key>shortcut</key>
+		<string>ぷに</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
