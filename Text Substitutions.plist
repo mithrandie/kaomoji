@@ -418,6 +418,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ヽ(*ﾟдﾟ)ノ ＜ ｶｲﾊﾞｰ</string>
+		<key>shortcut</key>
+		<string>かいば</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>（＾ω＾）</string>
 		<key>shortcut</key>
 		<string>かお</string>
@@ -1033,6 +1039,12 @@
 		<string>ε(*´･ω･)зﾞ</string>
 		<key>shortcut</key>
 		<string>ぱたぱた</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>（ °ㅂ°）ﾊﾟﾁ</string>
+		<key>shortcut</key>
+		<string>ぱちっ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
