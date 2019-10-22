@@ -28,6 +28,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ヽ(´Д｀;≡;´Д｀)丿</string>
+		<key>shortcut</key>
+		<string>あたふた</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ヽ('ω')ﾉ三ヽ('ω')ﾉ</string>
 		<key>shortcut</key>
 		<string>あたふた</string>
@@ -175,6 +181,12 @@
 		<string>ε二二二ε二二二(｡ﾟつД`)ﾟ｡ｳﾜｧｧ-----ﾝ!!!!</string>
 		<key>shortcut</key>
 		<string>うわーん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(*´・д・)</string>
+		<key>shortcut</key>
+		<string>えー</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -556,6 +568,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>:(´◦ω◦｀):ｶﾞｸﾌﾞﾙ</string>
+		<key>shortcut</key>
+		<string>がくぶる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>((( ；ﾟДﾟ)))</string>
 		<key>shortcut</key>
 		<string>がくぶる</string>
@@ -697,6 +715,18 @@
 		<string>(´Д⊂ｸﾞｽﾝ</string>
 		<key>shortcut</key>
 		<string>ぐすん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>‎( •̀ᄇ• ́)ﻭ✧”</string>
+		<key>shortcut</key>
+		<string>ぐっ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>‎(•̀ᴗ•́)و ̑̑</string>
+		<key>shortcut</key>
+		<string>ぐっ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1180,6 +1210,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>(\( ⁰⊖⁰)/)</string>
+		<key>shortcut</key>
+		<string>ばぁ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>( ᐛ👐)パァ</string>
 		<key>shortcut</key>
 		<string>ぱぁ</string>
@@ -1291,6 +1327,12 @@
 		<string>Ʊ"- ʓ</string>
 		<key>shortcut</key>
 		<string>びーる</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>｡°(°`ω´ °)°｡</string>
+		<key>shortcut</key>
+		<string>びええ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -1813,6 +1855,18 @@
 		<string>*･゜ﾟ･*:.｡..｡.:*･'(*ﾟ▽ﾟ*)'･*:.｡. .｡.:*･゜ﾟ･*</string>
 		<key>shortcut</key>
 		<string>わぁ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ヽ(・∀・)ノ</string>
+		<key>shortcut</key>
+		<string>わぁい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ﾜｧ───ヽ(*ﾟ∀ﾟ*)ﾉ───ｲ</string>
+		<key>shortcut</key>
+		<string>わぁい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
