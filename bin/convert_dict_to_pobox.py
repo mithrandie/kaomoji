@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 #-*-coding: utf-8 -*-
 
 SUCCESS_COLOR = "\033[36m"
@@ -12,7 +12,7 @@ import sys
 import xml.etree.ElementTree as ElementTree
 
 def error(message):
-    print ERROR_COLOR + "Error: " + message + ESC_COLOR
+    print(ERROR_COLOR + "Error: " + message + ESC_COLOR)
     sys.exit(1)
 
 
@@ -33,7 +33,7 @@ if os.path.isfile(poboxDict):
 
 words = []
 wordTree = ElementTree.parse(macJaDict)
-for dictionary in wordTree.getiterator("dict"):
+for dictionary in wordTree.iter("dict"):
     key = ""
     phrase = ""
     for item in list(dictionary):
